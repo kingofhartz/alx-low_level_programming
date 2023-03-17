@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  * main - A program that prints the various computer types
- * return 0
+ * return 0 (Success)
  */
 int main(void)
 {
